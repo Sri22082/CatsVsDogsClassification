@@ -4,7 +4,8 @@
 
 This project focuses on building a robust image classification model to distinguish between images of cats and dogs using deep learning techniques. We leverage a Convolutional Neural Network (CNN) implemented with TensorFlow and Keras, trained on a well-known dataset from Kaggle.
 
-![project_cnn](https://github.com/Sri22082/CatsVsDogsClassification/assets/92198693/16063bce-c05a-4482-8269-63a6407c8253)
+![cnn](https://github.com/Sri22082/CatsVsDogsClassification/assets/92198693/0bc2da11-93a6-41a3-ac8f-23c3caff321f)
+
 
 
 ### Dataset
